@@ -26,7 +26,7 @@ Alle Lerninhalte und Wortdaten sind fest in der App gespeichert und laufen volls
 
 Es werden keine Accounts, keine Analytik, keine Werbung und keine Tracking-Dienste verwendet.
 
-Für weitere Fragen: t.dao@ostfalia.de</p>
+Für weitere Fragen: nimvoro.dev@gmail.com</p>
 
 <h2>English</h2>
 
@@ -36,7 +36,7 @@ All learning content and vocabulary data are bundled inside the app and run full
 
 No accounts, analytics, advertising, or tracking services are used.
 
-For questions: t.dao@ostfalia.de</p>
+For questions: nimvoro.dev@gmail.com</p>
 
 </body>
 
